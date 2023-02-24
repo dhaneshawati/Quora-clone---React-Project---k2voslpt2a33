@@ -1,10 +1,10 @@
-import React from 'react'
-import '../styles/WidgetOptions.css'
- 
+import React from "react";
+import "../styles/WidgetOptions.css";
+
 const WidgetOptions = () => {
   return (
-    <div className='widgetOptions'>
-       <div className="widget__content">
+    <div className="widgetOptions">
+      <div className="widget__content">
         <img
           src="https://qph.cf2.quoracdn.net/main-thumb-ti-1737435-100-jxcfmjdvwvpkcketifttdmeeimxcatua.jpeg"
           alt="Mobile App"
@@ -34,7 +34,7 @@ const WidgetOptions = () => {
           <p>A Space retated to creating, practicing an...</p>
         </div>
       </div>
-      
+
       <div className="widget__content">
         <img
           src="https://qph.cf2.quoracdn.net/main-thumb-ti-1578647-100-xkggvbyzfkvzhyklewtkjijefekqbazb.jpeg"
@@ -56,7 +56,7 @@ const WidgetOptions = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default WidgetOptions
+export default WidgetOptions;
