@@ -8,13 +8,13 @@ import Widget from './Widget'
 const Quora = () => {
   return (
     <div className='quora'>
-      <Navbar/>
+      <Navbar />
       <div className="quora_content">
       <Sidebar />
       <Feed/>
       <Widget/>
       </div>
-
+ 
       
     </div>
   )

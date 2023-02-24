@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/SidebarOptions.css'
-import {Add} from '@material-ui/icons'
-
+import {Add} from '@mui/icons-material'
+ 
 const SidebarOptions = () => {
   return (
     <div className='sidebarOptions'>

@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/WidgetOptions.css'
-
+ 
 const WidgetOptions = () => {
   return (
     <div className='widgetOptions'>
